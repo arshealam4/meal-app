@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Meal App",
+    "slug": "meal-app",
+    "description": "Graet App to learn how to cook",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#171717"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "bundleIdentifier": "com.meal.great.app",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.meal.great.app",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#171717"
+      }
+    }
+  }
+}
