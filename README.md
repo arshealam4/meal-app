@@ -2,12 +2,12 @@
 
 ## Description
 
-We can find differnt type of foods like (Italian, Asian, French etc)
+We can find differnt type of meals like (Italian, Asian, French etc.)
 
-- We can get meal categories.
-- We can get meal based on categories.
-- We can make food to follow to steps.
-- We can mark food as favourite.
+- We can brouse meals categories.
+- We can brouse meals based on categories.
+- We can mark meals as favourite.
+- We can learn how to different types of food.
 
 ## Technology
 
